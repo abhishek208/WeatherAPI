@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\PersonalProjects\\WebAPP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B953AEFD-7B6C-4C77-A631-D00D5289A147}|src\\WeatherApplication.API\\WeatherApplication.API.csproj|c:\\personalprojects\\webapp\\src\\weatherapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B953AEFD-7B6C-4C77-A631-D00D5289A147}|src\\WeatherApplication.API\\WeatherApplication.API.csproj|solutionrelative:src\\weatherapplication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D11EF9AC-25F5-4FFA-BC27-64A1EC6E36B4}|test\\WeatherApplication.Test\\WeatherApplication.Test.csproj|c:\\personalprojects\\webapp\\test\\weatherapplication.test\\weatherforecasttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D11EF9AC-25F5-4FFA-BC27-64A1EC6E36B4}|test\\WeatherApplication.Test\\WeatherApplication.Test.csproj|solutionrelative:test\\weatherapplication.test\\weatherforecasttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\PersonalProjects\\WebAPP\\src\\WeatherApplication.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\WeatherApplication.API\\Program.cs",
+              "ToolTip": "C:\\PersonalProjects\\WebAPP\\src\\WeatherApplication.API\\Program.cs",
+              "RelativeToolTip": "src\\WeatherApplication.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T16:56:25.54Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
@@ -29,16 +46,8 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WeatherForecastTests.cs",
               "DocumentMoniker": "C:\\PersonalProjects\\WebAPP\\test\\WeatherApplication.Test\\WeatherForecastTests.cs",
               "RelativeDocumentMoniker": "test\\WeatherApplication.Test\\WeatherForecastTests.cs",
@@ -46,11 +55,12 @@
               "RelativeToolTip": "test\\WeatherApplication.Test\\WeatherForecastTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:49:15.436Z"
+              "WhenOpened": "2026-04-21T15:49:15.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\PersonalProjects\\WebAPP\\test\\WeatherApplication.Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "test\\WeatherApplication.Test\\UnitTest1.cs",
@@ -58,7 +68,16 @@
               "RelativeToolTip": "test\\WeatherApplication.Test\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T15:47:23.096Z"
+              "WhenOpened": "2026-04-21T15:47:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         },

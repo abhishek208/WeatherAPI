@@ -29,3 +29,4 @@ C:\PersonalProjects\WebAPP\src\WeatherApplication.API\obj\Debug\net8.0\refint\We
 C:\PersonalProjects\WebAPP\src\WeatherApplication.API\obj\Debug\net8.0\WeatherApplication.API.pdb
 C:\PersonalProjects\WebAPP\src\WeatherApplication.API\obj\Debug\net8.0\WeatherApplication.API.genruntimeconfig.cache
 C:\PersonalProjects\WebAPP\src\WeatherApplication.API\obj\Debug\net8.0\ref\WeatherApplication.API.dll
+C:\PersonalProjects\WebAPP\src\WeatherApplication.API\obj\Debug\net8.0\WeatherApplication.API.sourcelink.json
