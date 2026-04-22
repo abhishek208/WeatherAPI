@@ -26,7 +26,8 @@ pipeline {
                 docker stop $CONTAINER_NAME || true
                 docker rm $CONTAINER_NAME || true
                 docker run -d -p 5000:80 --name $CONTAINER_NAME $IMAGE_NAME
-                '''
+                echo "🚀 App running at: http://localhost:5000/swagger"
+   			    '''
             }
         }
     }

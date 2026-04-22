@@ -21,8 +21,14 @@ RUN dotnet publish src/WeatherApplication.API/WeatherApplication.API.csproj -c R
 
 
 # ---------- RUNTIME STAGE ----------
-FROM mcr.microsoft.com/dotnet/aspnet:8.0
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 WORKDIR /app
+
+# ✅ Force .NET to run on port 80
+ENV ASPNETCORE_URLS=http://+:80
+
+# Optional but good practice
+EXPOSE 80
 
 COPY --from=build /app/out .
 
